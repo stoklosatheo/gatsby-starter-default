@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 
 function Header() {
   return (
-    <div>
+    <div className="header">
       <img src="https://crucialconversations.axelperformance.com/images/logo.svg" alt="Logo Axel Performance" />
       <button>Prendre rendez-vous</button>
     </div>
